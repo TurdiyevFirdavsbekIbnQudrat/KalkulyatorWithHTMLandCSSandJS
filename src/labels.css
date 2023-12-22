@@ -1,0 +1,31 @@
+label{
+    color: blue;
+    background-color: bisque;
+    border-color: black;
+}
+button{
+    color: aqua;
+    background-color: black;
+    
+}
+body{ 
+    background-image: url("/asserts/pngtree-calculator-childrens-day-toy-background-image_582237.jpg");
+     display: flex; 
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: blue;
+}
+
+.saad{
+    text-align: center;
+}
+div.ChegaraSonlarga{
+    border-style: solid;
+}
+div.ChegaraSonlarVaInputText{
+    
+    border-style: solid;    
+}
